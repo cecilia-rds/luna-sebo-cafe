@@ -8,8 +8,9 @@
     <title>Sebo & café Luna</title>
 
     <link rel="stylesheet" href="style.css">
+    <script src="main.js"></script>
 </head>
-<body>
+<body onload="carregar()">
     <header>
         <div class="box">
             <h1><img src="logo.png"></h1>
@@ -17,18 +18,24 @@
             <nav>
                 <ul>
                     <li><a href="index.html">Home</a></li>
-                    <li><a href="cardapio">Cardapio</a></li>
-                    <li><a href="associados.html">Sobre o clube de membros </a></li>
+                    <li><a href="cardápio">Cardapio</a></li>
+                    <li><a href="associados.html">Associe-se </a></li>
                     <li><a href="contato.html">Fale conosco</a></li>
                 </ul>
             </nav>
         </div>
     </header>
 
-
-    <p>Hoje nossa recomendação de leitura é: </p>
-
     <main>
+            <section class="recomendacao">
+                <div id="msg">
+                    Nossa recomendação de hoje é:
+                </div>
+                <div id="foto"> 
+                    <img id="imagem" src="" alt="Livro do dia">
+                </div>
+
+            </section>
             <section class="principal">
                 <h2 class="titulo">Sobre o nosso projeto</h2>
 
@@ -49,7 +56,7 @@
                         <ul>
                             <li class="itens">Devolução dos livros em até 30 dias </li>
                             <li class="itens">Quatro itens do cardapio por mês gratuitamente </li>
-                            <li class="itens">Eventos para debate com outros leitores</li>
+                            <li class="itens">Participação para debates com outros leitores</li>
                         </ul>
                     </div>
 
@@ -58,7 +65,7 @@
     </main>
     <footer>
         <img src="logo.png">
-        <p class="Copyright">&copy; Copyright Sebo & Café Luna - 2022 </p>
+        <p class="Copyright">&copy; Luna Sebo & Café - 2022 </p>
     </footer>  
 </body>
 </html>
