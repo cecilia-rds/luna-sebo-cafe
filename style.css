@@ -1,4 +1,139 @@
 body {
-    background-color: #e6e1e19d;
+    background-color: #bdb0b09d;
 }
 
+.titulo {
+    text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;
+}
+
+.titulo-sobre {
+    padding: 30px 0px;
+	font-size: 2em;
+	margin: 0 0 1em;
+	clear: left;
+}
+.box {
+    position: relative;
+	margin: 0;
+}
+nav {
+    position: absolute;
+    top: 20px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    text-transform: uppercase;
+    margin: 0 0 0 20px;
+}
+nav a {
+    color: #000000;
+    font-size: 22px;
+    text-decoration: none;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+
+.img-cafeteria {
+    width: 100%;
+
+}
+.img-estante {
+    margin-left: 80%;
+    display: inline-block;
+}
+
+.opcoes{
+    display: inline-block;
+	text-align: center;
+	width: 20%;
+	padding: 30px 20px;
+	border: 2px solid #4604041c;
+	border-radius: 10px;
+}
+
+.publico-geral {
+	display: inline-block;
+	vertical-align: top;
+}
+.associados {
+    display: inline-block;
+    vertical-align: 10%;
+}
+
+.como-funciona {
+    text-align: center;
+    font-size: 20px;
+}
+.tel, .copyright {
+    text-align: center;
+}
+.redes {
+    position: absolute;
+    top: 200px;
+    right: 0;
+    margin-right: 20;
+}
+.contato-footer {
+    position: absolute;
+    right: 0;
+}
+.img1 {
+    margin-left: 15%;
+    margin: 5% 40 40px;
+}
+.img2 {
+    margin-rigth: 200%;
+}
+.img3 {
+    display: inline-block;
+
+}
+.duvidas {
+    text-align: center;
+}
+table {
+	margin: 20px 0 40px;
+}
+.mapa {
+    margin: 1%;
+
+}
+
+.img-contato {
+    margin: 2%; 
+
+}
+
+.entre-em-contato {
+    display: inline-block;
+	vertical-align: top;  
+
+}
+form {
+	margin: 40px 1%;
+    right: 0;
+}
+
+form label, form legend {
+    display: block;
+	font-size: 20px;
+	margin: 0 0 10px;
+}
+.input-padrao {
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 50%;
+}
+table {
+	margin: 20px 0 40px;
+}
+.logo {
+    margin-right: 50%;
+}
