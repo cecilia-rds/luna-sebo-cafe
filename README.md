@@ -15,15 +15,15 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Acesso atraves do link:
 
-https://crd-s.github.io/luna-sebo-cafe/index.html
+https://cecilia-rds.github.io/luna-sebo-cafe/index.html
 
 
 ...
 
-## Desenvolvedores/Contribuintes :octocat:
+## Desenvolvedores/Contribuintes 
 
 
-| https://github.com/crd-s |
+| https://github.com/cecilia-rds |
 | :---: | :---: | :---: 
 
 ## Licença 
