@@ -13,7 +13,7 @@
 
 ## Acesso atraves do link:
 
-https://cecilia-rds.github.io/luna-sebo-cafe/index.html
+https://cecilia-rds.github.io/luna-sebo-cafe
 
 
 ...
